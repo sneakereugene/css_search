@@ -1,0 +1,36 @@
+input[type="search"]{
+	border: 0;
+}
+input[type="search"]:focus{
+	outline: 0;
+}
+input[type="submit"]{
+
+}
+.container{
+	display: flex;
+}
+li{
+	background: #E7E7DE;
+	margin: 2px;
+	align-items: center;
+	border-radius: 5px;
+	display: flex;
+	padding: 10px;
+	height: 270px:
+}
+ul{
+	margin: 40px;
+	display: block;
+	margin-left: 50px;
+}
+img{
+	width: 40px;
+	height: 40px;
+}
+.border-radius{
+	border-radius: 50%;
+}
+li:hover{
+	color: #ec5a62;
+}
