@@ -3,6 +3,7 @@ input[type="search"]{
 }
 input[type="search"]:focus{
 	outline: 0;
+	color:red;
 }
 input[type="submit"]{
 
@@ -17,7 +18,8 @@ li{
 	border-radius: 5px;
 	display: flex;
 	padding: 10px;
-	height: 270px:
+	/* height: 270px; */
+	width: 300px;
 }
 ul{
 	margin: 40px;
@@ -27,6 +29,7 @@ ul{
 img{
 	width: 40px;
 	height: 40px;
+	margin-right: 10px;
 }
 .border-radius{
 	border-radius: 50%;
